@@ -47,6 +47,25 @@ Developed by: RegisterNumber:*/
 **Timing Diagram**
 
 **Result:**
+sub 1 
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+logic diagram
+
+![exp 2](https://github.com/user-attachments/assets/856eccf8-7533-439a-92e4-ef74e7a52775)
+
+clock pulse 
+
+![exp2](https://github.com/user-attachments/assets/fc16d7cf-d734-4111-b83d-8f18b166c6cb)
+
+sub 2
+
+logic diagram
+
+![exp2 3](https://github.com/user-attachments/assets/30f11d2f-c354-4cfd-be8c-90f58fd939d1)
+
+clock pulse
+
+![exp2,4](https://github.com/user-attachments/assets/73d0ceab-d8b0-4c7a-89d3-68de7937acbc)
+
+functions are implemented using and their operations are verified using Verilog programming.
 
